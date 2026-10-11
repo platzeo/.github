@@ -1,6 +1,6 @@
 # Platzeo
 
-Online table reservations for restaurants, made in Germany.
+Online table reservations for restaurants.
 
 Restaurants get their own booking page at `<name>.platzeo.de`, a widget and a
 WordPress plugin for their own website, an admin for reservations, tables,
